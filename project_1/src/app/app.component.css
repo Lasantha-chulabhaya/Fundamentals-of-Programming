@@ -1,0 +1,9 @@
+.btn-outline-success {
+    color: rgb(245, 245, 245) !important;
+}
+.btn-outline-success{
+    border-color: hsl(133, 45%, 60%);
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: rgba(0, 0, 5, 0.651);
+}
