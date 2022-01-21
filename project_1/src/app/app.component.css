@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     padding-top:4.2rem;
     padding-bottom:4.2rem;
@@ -67,3 +68,14 @@ body{
      color: #ff0000;
      }
      #second{display:none;}
+=======
+.btn-outline-success {
+    color: rgb(245, 245, 245) !important;
+}
+.btn-outline-success{
+    border-color: hsl(133, 45%, 60%);
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: rgba(0, 0, 5, 0.651);
+}
+>>>>>>> 52b8f66788a957736ae5fd97e7e2e7a674184d95
