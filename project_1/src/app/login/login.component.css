@@ -1,0 +1,128 @@
+
+/* account page */
+.account-page{
+    padding: 100px 100px;
+    background: radial-gradient(rgb(219, 153, 153),hsl(0, 42%, 67%));
+   
+}
+
+#container{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#container #left{
+    width: 500px;
+    float: left;
+}
+
+#container #right{
+    width: 300px;
+    float: right;
+}
+
+.form-container{
+    
+    background: #c4bec1;
+    width: 300px;
+    height: 335px;
+    position: sticky;
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
+    box-shadow: 0 0 20px 0px rgbs(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.form-container span{
+    font-weight: bold;
+    padding: 0 20px;
+    color: hsl(251, 68%, 25%);
+    cursor: pointer;
+    width: 90px;
+    display: inline-block;
+}
+
+.form-btn{
+    display: inline-block;
+}
+
+.form-container form{
+    max-width: 300px;
+    padding: 0 10px;
+    position: absolute;
+    top: 130px;
+    transition: transform 1s;
+}
+
+form input{
+    width: 90;
+    height: 30px;
+    margin: 10px 0;
+    padding: 0 20px;
+    border: 1px solid rgb(48, 6, 124);
+    
+}   
+    
+
+form .btn{
+    width: 90%;
+    border: 1px solid #0f0346;
+    cursor: pointer;
+    margin: 10px 0;
+
+}
+
+form .btn:focus{
+    outline: none;
+}
+
+#LoginForm{
+    left: -300px;
+    
+}
+
+#RegForm{
+    left: 0;
+    
+}
+
+form a{
+    font-size: 15px;
+}
+
+#Indicator{
+    width: 100px;
+    border: none;
+    background: hsl(290, 75%, 55%);
+    height: 3px;
+    margin-top: 7px;
+    transform: translateX(100px);
+    transition: transform 1s;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
